@@ -5,10 +5,9 @@
 ### About me: 
 - 👩‍💻 I'm a fullStack developer;
 - 🏫 I'm Computer Science student in IFCE([Instituto Federal de Educação, Ciência e Tecnologia do Ceará](https://ifce.edu.br));
-- 🎓 Computer Technician by ([EEEP Deputado José Maria Melo](http://eeepdepjosemariamelo.blogspot.com/));
+- 🎓 Computer Technician by [EEEP Deputado José Maria Melo](http://eeepdepjosemariamelo.blogspot.com/);
 - 💻 I’m interested in Web development;
-- 📚 I'm currently learning ReactJS and NodeJs;
-- 📧 Send me an ([email](mailto:estefaneribeiroveras@gmail.com)) if you want to contact me.
+- 📚 I'm currently learning ReactJS and NodeJs.
 
 <img align="right" alt="Estefane-yoda" src="https://camo.githubusercontent.com/47688b3dfb09f8ad407df916a91e237c67478dccd2885b7040e1d9cdeeded205/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3837373235333931393534303134323131322f3837373235353734323730333433353834362f6573746566616e652e676966">
 
