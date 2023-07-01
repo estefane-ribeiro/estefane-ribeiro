@@ -33,7 +33,6 @@
 <a href="mailto:estefaneribeiroveras@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/_estefane_veras" target="_blank" style="border-radius:5px"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estefane-ribeiro&label=Profile%20views&color=0e75b6&style=flat" alt="viwsestefane-ribeiro" /> </p>
 
 <!---
 estefane-ribeiro/estefane-ribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
